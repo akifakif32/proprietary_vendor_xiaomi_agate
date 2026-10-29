@@ -571,8 +571,6 @@ PRODUCT_PACKAGES += \
     libmialgo_sd \
     libmialgo_utils \
     libmialgo_video_enhance \
-    libmialgoengine \
-    libmialgoengine2 \
     libmibokeh_845_video \
     libmibokeh_mt6873 \
     libmpbase \
